@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek Chavda</h1>
-<h3 align="center">Somewhere in between Fingers and keybord</h3>
+<h3 align="center">Somewhere in between Fingers and Keyboard</h3>
 
 - 🔭 I’m currently Exploring **Angular**
 
